@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Lucky Rose", 
+    "ingredients": "Tanqueray Gin, Saint Germain,
+    fresh squeezed lemon juice, strawberry infused simple syrup"
+  },
+
+  {
+    "name": "Girl on Film",
+    "ingredients": "Cruzan Rum, Chinola liquor pineapple puree, Lime juice, Simple syrup" 
+  },
+
+  {
+    "name": "Black Widow",
+    "ingredients": "Don Julio 70, berries, chambord, lemon juice, agave"
+  },
+
+  {
+    "name": "The Billionaire Margarita",
+    "ingredients": "Don Julio 1942, orange syrup, lemon juice nectar, 24k paper gold"
+  },
+
+  {
+    "name": "Kiwi Tequila",
+    "ingredients": "skrewball peanut butter whiskey, homemade blackberry puree,
+    lemon juice, nectar with crushed ice"
+  },
+
+  {
+    "name": "Black Velvet",
+    "ingredients": "Jameson, organic homemade peach marmalade, fresh squeezed lemon juice,
+    nectar"
+  }
+]
