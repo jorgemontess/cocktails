@@ -30,5 +30,16 @@
     "name": "Black Velvet",
     "ingredients": "Jameson, organic homemade peach marmalade, fresh squeezed lemon juice,
     nectar"
+  },
+
+  {
+    "name": "Henny Cubano",
+    "ingredients": "Hennessy Vs, Agave, Lemon Juice, Mint Syrp, Splash of Soda"
+  },
+
+  {
+    "name": "I'm coming out",
+    "ingredients": "Brooklyn Gin, Licor 43, coconut water, jasmin tea syrup, 
+    mango puree, lime juice"
   }
 ]
